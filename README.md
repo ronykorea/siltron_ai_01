@@ -1,6 +1,16 @@
 # SK 실트론 동반성장 포털
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success?style=flat-square&logo=github)](https://ronykorea.github.io/siltron_ai_01/)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](LICENSE)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 SK 실트론 협력사를 위한 동반성장 포털 웹사이트입니다.
+
+## 🌐 Live Demo
+
+**웹사이트 바로가기**: [https://ronykorea.github.io/siltron_ai_01/](https://ronykorea.github.io/siltron_ai_01/)
 
 ## 🎨 디자인 소스
 
