@@ -1,0 +1,32 @@
+{
+  "name": "sksiltron-partnership-portal",
+  "version": "1.0.0",
+  "description": "SK 실트론 동반성장 포털 웹사이트",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "npx live-server --port=8000 --open=/index.html",
+    "test": "echo \"테스트 스크립트가 아직 없습니다.\" && exit 0"
+  },
+  "keywords": [
+    "sksiltron",
+    "partnership",
+    "supplier",
+    "portal",
+    "동반성장"
+  ],
+  "author": "SK Siltron",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sksiltron/partnership-portal"
+  },
+  "bugs": {
+    "url": "https://github.com/sksiltron/partnership-portal/issues"
+  },
+  "homepage": "http://ipro.sksiltron.co.kr"
+}
+
